@@ -1,2 +1,2 @@
 # Simple Ajax PHP Cart
-> Live at [http://simple-cart.herokuapp.com/](http://simple-cart.herokuapp.com/)
+> Live at <a href="http://simple-cart.herokuapp.com/" target="_blank">http://simple-cart.herokuapp.com/</a>
